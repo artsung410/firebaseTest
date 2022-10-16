@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "903504382290",
+    "project_id": "unitytest-ccf91",
+    "storage_bucket": "unitytest-ccf91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903504382290:android:5bbf8a2c80373e40ff128b",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.firebaseTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903504382290-oatnk1tcgcl76j88s55lgfmb03b3jcfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DefaultCompany.firebaseTest",
+            "certificate_hash": "6e01ddb74cb890162cad485962e55fe701e9bc15"
+          }
+        },
+        {
+          "client_id": "903504382290-d0men7rdou7fucgo7v7ketfe9fi1acjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASFV8uN0gxi165Ijin9WhPBvt4mYNmiCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903504382290-d0men7rdou7fucgo7v7ketfe9fi1acjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
